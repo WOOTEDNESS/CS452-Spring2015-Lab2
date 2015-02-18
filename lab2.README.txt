@@ -1,0 +1,13 @@
+name, date, description
+
+Kevin John Hemstreet-Grimmer
+
+4/18/15
+
+Used matrix opertaions provided by MV.js to translate a square across the WebGL canvas.
+used a handle keys fucntion as an event listener to handle which keys are pressed.
+
+Used an array of 4 colors for each vertex.
+
+
+

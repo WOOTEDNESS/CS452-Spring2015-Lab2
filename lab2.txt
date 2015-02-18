@@ -12,7 +12,7 @@
 +Assumptions:
 +1. vertex coordinates will be in the range [-1.0, +1.0]
 +2. use webgl-utils.js, initShaders.js and MV.js from Angel
-+3. three files are required in the solution: lab1.html, lab1.js and lab1.README.txt. The lab1.README.txt file
++3. three files are required in the solution: lab2.html, lab2.js and lab2.README.txt. The lab1.README.txt file
 +will contain your name and date along with a brief description of your solution. Note, however, that all
 +files should contain a comment including your name and date.
 +
